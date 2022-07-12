@@ -55,6 +55,10 @@ img {
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
 }
 
+.body-index {
+  background-color: #fff;
+}
+
 .navigation-link {
   position: relative;
   font-size: 20px;
